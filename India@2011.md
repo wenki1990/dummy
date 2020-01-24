@@ -1,6 +1,12 @@
-<p align="center"><h1>INDIA Census 2011</h1></p>
+<center><h1>INDIA Census 2011</h1></center>
 
 <center><a href="https://youtu.be/SdT4mogSeOk" target="_blank">Demo Video on Youtube</a></center>
+
+```html
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SdT4mogSeOk
+" target="_blank"><img src="http://img.youtube.com/vi/SdT4mogSeOk/0.jpg" 
+alt="Demo Video" width="240" height="180" border="10" /></a>
+```
 
 <center><a href="https://public.tableau.com/profile/satya.venkatesh#!/vizhome/India2011_15779645968680/Dashboard1" target="_blank">Tableau Public Link</a></center>
 
