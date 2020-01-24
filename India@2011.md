@@ -14,7 +14,7 @@
 
 <center><img src="images/5.png" width = 600 height = 350></center>
 
-<a href="https://youtu.be/SdT4mogSeOk">Demo Video on Youtube</a>
+<a href="https://youtu.be/SdT4mogSeOk" target="_blank">Demo Video on Youtube</a>
 
 First issue was this data dates back to 2011 when there was no Telangana.
 I had to change the state name of the districts that are presently in Telangana.
