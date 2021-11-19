@@ -1,5 +1,3 @@
-<a id=top></a>
-
 <center><h1>Object Detection using YOLOv3</h1></center>
 
 **Use Cases**
